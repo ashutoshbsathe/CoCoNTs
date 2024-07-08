@@ -2,9 +2,7 @@
 
 "Efficient Training of Language Models with Compact and Consistent Next Token Distributions"
 
-Ashutosh Sathe, Sunita Sarawagi 
-
-ACL 2024, https://arxiv.org/abs/2407.02819
+*Ashutosh Sathe, Sunita Sarawagi*, **ACL 2024**, https://arxiv.org/abs/2407.02819
 
 <details>
   <summary>Code Status</summary>
